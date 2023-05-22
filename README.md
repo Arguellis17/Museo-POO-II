@@ -4,7 +4,7 @@
 
 El objetivo principal de nuestro proyecto es proporcionar una herramienta eficiente y fácil de usar para el control y seguimiento de los visitantes de un museo. Con nuestro sistema, los administradores del museo pueden realizar un seguimiento de los datos de los visitantes, como su cédula, nombre, apellidos, género, profesión, ciudad de origen y código del museo al que pertenecen.
 
-La arquitectura de nuestro proyecto se basa en el paradigma de Programación Orientada a Objetos (POO), aprovechando los conceptos de encapsulamiento, herencia y polimorfismo para lograr un diseño modular y escalable. Hemos utilizado el lenguaje de programación Java y el framework JDBC para interactuar con la base de datos.
+La arquitectura de nuestro proyecto se basa en el paradigma de Programación Orientada a Objetos (POO), aprovechando los conceptos de encapsulamiento y polimorfismo para lograr un diseño modular y escalable. Hemos utilizado el lenguaje de programación Java y el framework JDBC para interactuar con la base de datos.
 
 ## Grupo de Desarrollo
 
