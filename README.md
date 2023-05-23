@@ -68,5 +68,8 @@ Las principales características y componentes del modelo JDBC son:
 
 El modelo JDBC proporciona una forma estándar y eficiente de interactuar con bases de datos desde aplicaciones Java. Es ampliamente utilizado en el desarrollo de aplicaciones empresariales y permite a los desarrolladores aprovechar todo el potencial de las bases de datos relacionales en sus aplicaciones.
 
-[![jdbc.png](https://i.postimg.cc/qvmSPXFX/jdbc.png)](https://postimg.cc/0zwVmmPb)
+[![jdbc.png](https://i.postimg.cc/qvmSPXFX/jdbc.png)](https://postimg.cc/0zwVmmPb)  
+
+## ☘️ Agradecimientos ☘️  
+Agradecemos a la profesora Claudia Yamile Gomez por su guía y enseñanzas durante el desarrollo de este proyecto. Su dedicación y apoyo fueron fundamentales para nuestro aprendizaje y éxito en esta asignatura. 🐱
 
