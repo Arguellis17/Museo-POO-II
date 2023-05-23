@@ -33,10 +33,14 @@ En conjunto, hemos trabajado de manera colaborativa y coordinada para lograr el 
 - Integración con base de datos: Utilizando JDBC, se establece la conexión con una base de datos para almacenar y recuperar los datos de los visitantes.  
 
 ## 👀 Visutas del Proyecto 👀 
-### Entrada al museo
+### Vista Entrada al museo
 [![uno.png](https://i.postimg.cc/6QJbJj0Z/uno.png)](https://postimg.cc/LJD3jVG4)  
+
 ### Vista General  
 [![dos.png](https://i.postimg.cc/HLm1m44r/dos.png)](https://postimg.cc/gxgTqh7p)  
+
+### Vista Base de Datos  
+[![tres.png](https://i.postimg.cc/t4NpYMg3/tres.png)](https://postimg.cc/K1jdWQBj)
 
 ## 📋 El modelo JDBC 📋
 
