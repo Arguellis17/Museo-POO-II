@@ -40,7 +40,13 @@ En conjunto, hemos trabajado de manera colaborativa y coordinada para lograr el 
 [![dos.png](https://i.postimg.cc/HLm1m44r/dos.png)](https://postimg.cc/gxgTqh7p)  
 
 ### Vista Base de Datos  
-[![tres.png](https://i.postimg.cc/t4NpYMg3/tres.png)](https://postimg.cc/K1jdWQBj)
+[![tres.png](https://i.postimg.cc/t4NpYMg3/tres.png)](https://postimg.cc/K1jdWQBj)  
+
+### Vista Tabla Museo
+[![cuatro.png](https://i.postimg.cc/pTZFCZkz/cuatro.png)](https://postimg.cc/47YyNpDx)  
+
+## Vista Tabla Visitante  
+[![cinco.png](https://i.postimg.cc/PJ7NVFDp/cinco.png)](https://postimg.cc/4HzJmPBs)
 
 ## 📋 El modelo JDBC 📋
 
