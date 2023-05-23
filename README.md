@@ -35,6 +35,8 @@ En conjunto, hemos trabajado de manera colaborativa y coordinada para lograr el 
 ## 👀 Visutas del Proyecto 👀 
 ### Entrada al museo
 [![uno.png](https://i.postimg.cc/6QJbJj0Z/uno.png)](https://postimg.cc/LJD3jVG4)  
+### Vista General  
+[![dos.png](https://i.postimg.cc/RZkVHH1m/dos.png)](https://postimg.cc/9DBh3zNg)  
 
 ## 📋 El modelo JDBC 📋
 
