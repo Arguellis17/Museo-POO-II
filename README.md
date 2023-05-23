@@ -32,7 +32,7 @@ En conjunto, hemos trabajado de manera colaborativa y coordinada para lograr el 
 - Visualización de registros: Los registros de visitantes se muestran en forma de tablas, facilitando la visualización y búsqueda de información. También se muestra la información de los museos, cantidad de visitantes registrados en el y una clasificacion entre los visitantes de genero masculino y femenino.  
 - Integración con base de datos: Utilizando JDBC, se establece la conexión con una base de datos para almacenar y recuperar los datos de los visitantes.  
 
-## 👀 Visutas del Proyecto 👀 
+## 👀 Vistas del Proyecto 👀 
 ### Vista Entrada al museo
 [![uno.png](https://i.postimg.cc/6QJbJj0Z/uno.png)](https://postimg.cc/LJD3jVG4)  
 
