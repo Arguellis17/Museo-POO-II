@@ -2,7 +2,8 @@
 
 ¡Bienvenidos a nuestra presentación del proyecto Museo! En este proyecto, hemos desarrollado un sistema para gestionar el registro de visitantes en un museo y mostrar su información en tablas interactivas.
 
-El objetivo principal de nuestro proyecto es proporcionar una herramienta eficiente y fácil de usar para el control y seguimiento de los visitantes de un museo. Con nuestro sistema, los administradores del museo pueden realizar un seguimiento de los datos de los visitantes, como su cédula, nombre, apellidos, género, profesión, ciudad de origen y código del museo al que pertenecen.
+El objetivo principal de nuestro proyecto es proporcionar una herramienta eficiente y fácil de usar para el control y seguimiento de los visitantes de un museo. Con nuestro sistema, los administradores del museo pueden realizar un seguimiento de los datos de los visitantes, como su cédula, nombre, apellidos, género, profesión, ciudad de origen y código del museo al que pertenecen.  
+Así mismo, también se pueden agregar más museos a partir de un código, nombre, municipio y departamento. Extendiendo el programa a una manejabilidad óptima.  
 
 La arquitectura de nuestro proyecto se basa en el paradigma de Programación Orientada a Objetos (POO), aprovechando los conceptos de encapsulamiento y polimorfismo para lograr un diseño modular y escalable. Hemos utilizado el lenguaje de programación Java y el framework JDBC para interactuar con la base de datos.  
 
@@ -22,7 +23,18 @@ En conjunto, hemos trabajado de manera colaborativa y coordinada para lograr el 
 
 - Java
 - JDBC (Java Database Connectivity): Se trabajó siguiendo el estándar de JDBC para la conexión y manipulación de la base de datos.
-- MVC (Modelo-Vista-Controlador): Se implementó el patrón de diseño MVC para lograr una estructura modular y escalable en el proyecto.
+- MVC (Modelo-Vista-Controlador): Se implementó el patrón de diseño MVC para lograr una estructura modular y escalable en el proyecto.  
+  
+## 📌 Características principales 📌
+
+- Registro de visitantes: Permite el ingreso de información detallada de los visitantes, incluyendo cédula, nombre, apellidos, género, profesión, ciudad de origen, entre otros.  
+- Registro de museos: Permite el ingreso de información de un museo, incluyendo código, nombre, municipio y departamento.    
+- Visualización de registros: Los registros de visitantes se muestran en forma de tablas, facilitando la visualización y búsqueda de información. También se muestra la información de los museos, cantidad de visitantes registrados en el y una clasificacion entre los visitantes de genero masculino y femenino.  
+- Integración con base de datos: Utilizando JDBC, se establece la conexión con una base de datos para almacenar y recuperar los datos de los visitantes.  
+
+## 👀 Visutas del Proyecto 👀 
+### Entrada al museo
+[![uno.png](https://i.postimg.cc/6QJbJj0Z/uno.png)](https://postimg.cc/LJD3jVG4)  
 
 ## 📋 El modelo JDBC 📋
 
