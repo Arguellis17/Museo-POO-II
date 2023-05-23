@@ -18,4 +18,10 @@ Nuestro grupo de desarrollo está conformado por:
 
 En conjunto, hemos trabajado de manera colaborativa y coordinada para lograr el éxito de este proyecto. Estamos orgullosos de presentar nuestro trabajo, el cual es evaluado como parte del segundo parcial de la materia de Programación Orientada a Objetos II.
 
-¡Gracias por su atención! Estamos dispuestos a responder cualquier pregunta que tengan sobre nuestro proyecto Museo.
+## Tecnologías utilizadas
+
+- Java
+- JDBC (Java Database Connectivity): Se trabajó siguiendo el estándar de JDBC para la conexión y manipulación de la base de datos.
+- MVC (Modelo-Vista-Controlador): Se implementó el patrón de diseño MVC para lograr una estructura modular y escalable en el proyecto.    
+[![jdbc.png](https://i.postimg.cc/qvmSPXFX/jdbc.png)](https://postimg.cc/0zwVmmPb)  
+  ¡Gracias por su atención! Estamos dispuestos a responder cualquier pregunta que tengan sobre nuestro proyecto Museo.
