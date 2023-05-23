@@ -36,7 +36,7 @@ En conjunto, hemos trabajado de manera colaborativa y coordinada para lograr el 
 ### Entrada al museo
 [![uno.png](https://i.postimg.cc/6QJbJj0Z/uno.png)](https://postimg.cc/LJD3jVG4)  
 ### Vista General  
-[![dos.png](https://i.postimg.cc/RZkVHH1m/dos.png)](https://postimg.cc/9DBh3zNg)  
+[![dos.png](https://i.postimg.cc/HLm1m44r/dos.png)](https://postimg.cc/gxgTqh7p)  
 
 ## 📋 El modelo JDBC 📋
 
