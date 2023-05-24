@@ -1,4 +1,4 @@
-# ✨ Presentación del Proyecto Museo ✨
+# ✨ Presentación del Proyecto Muse ✨
 
 ¡Bienvenidos a nuestra presentación del proyecto Museo! En este proyecto, hemos desarrollado un sistema para gestionar el registro de visitantes en un museo y mostrar su información en tablas interactivas.
 
