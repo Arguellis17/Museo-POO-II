@@ -2,7 +2,6 @@
 package principal;
 
 import controller.Control;
-//import controller.Login;
 import view.VistaInicio;
 import view.VistaMuseo;
 
