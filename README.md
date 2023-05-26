@@ -7,7 +7,7 @@ Así mismo, también se pueden agregar más museos a partir de un código, nombr
 
 La arquitectura de nuestro proyecto se basa en el paradigma de Programación Orientada a Objetos (POO), aprovechando los conceptos de encapsulamiento y polimorfismo para lograr un diseño modular y escalable. Hemos utilizado el lenguaje de programación Java y el framework JDBC para interactuar con la base de datos.  
 
-## 🤝 Grupo de Desarrollo 🤝
+## 🤝 Grupo de Desarrollo | Grupo C 🤝
 
 Nuestro grupo de desarrollo está conformado por:
 
