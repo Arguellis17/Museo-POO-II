@@ -21,7 +21,8 @@ En conjunto, hemos trabajado de manera colaborativa y coordinada para lograr el 
 
 ## 💻 Tecnologías utilizadas 💻
 
-- Java
+- Java 1.17, JDK 20  
+- IDE Netbeans
 - JDBC (Java Database Connectivity): Se trabajó siguiendo el estándar de JDBC para la conexión y manipulación de la base de datos.
 - MVC (Modelo-Vista-Controlador): Se implementó el patrón de diseño MVC para lograr una estructura modular y escalable en el proyecto.  
   
